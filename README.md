@@ -6,5 +6,5 @@ Determined on the basis of a large number of experiments, the selection criterio
 α: 0.6
 β: 0.2
 γ: 0.1
-n: 10
-  note: Depending on the dataset hyperparameters can be adjusted.
+n: 10     
+Note: Depending on the dataset hyperparameters can be adjusted.
